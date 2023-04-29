@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskCam</string>
+    <string name="refresh">refresh</string>
+    <string name="save">save</string>
+</resources>
